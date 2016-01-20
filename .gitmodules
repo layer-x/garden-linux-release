@@ -125,3 +125,9 @@
 	path = src/github.com/golang/protobuf
 	url = https://github.com/golang/protobuf
 	branch = master
+[submodule "src/github.com/vito/houdini"]
+	path = src/github.com/vito/houdini
+	url = https://github.com/vito/houdini
+[submodule "src/github.com/pkg/term"]
+	path = src/github.com/pkg/term
+	url = https://github.com/pkg/term
