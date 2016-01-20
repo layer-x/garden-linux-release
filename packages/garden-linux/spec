@@ -305,5 +305,5 @@ files:
   - github.com/vito/houdini/process/*.go #gosub
   - github.com/vito/houdini/*.go #gosub
   - github.com/vito/houdini/ptyutil/*.go #gosub
-  - github.com/pkg/term/win32/*.go #gosub
-  - github.com/pkg/term/termios/win32/*.go #gosub
+  - github.com/pkg/term/*.go #gosub
+  - github.com/pkg/term/termios/*.go #gosub
